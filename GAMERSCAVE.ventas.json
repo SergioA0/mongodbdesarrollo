@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "65391e06da2fae5890e8bef6"
+  },
+  "Usuario": "Noobmaster69",
+  "Juego": "The amazing spider man 2",
+  "Descuento": "no",
+  "Codigo_de_producto": 1,
+  "Precio": 223
+},
+{
+  "_id": {
+    "$oid": "65391e43da2fae5890e8bef7"
+  },
+  "Usuario": "Miguelito20",
+  "Juego": "Shingeki",
+  "Descuento": "no",
+  "Codigo_de_producto": 4,
+  "Precio": 25
+},
+{
+  "_id": {
+    "$oid": "65391e8ada2fae5890e8bef8"
+  },
+  "Usuario": "PanlinX1",
+  "Juego": "Dragon ball Z",
+  "Descuento": "no",
+  "Codigo_de_producto": 3,
+  "Precio": 10
+},
+{
+  "_id": {
+    "$oid": "65391ebfda2fae5890e8bef9"
+  },
+  "Usuario": "BigChungus",
+  "Juego": "Down Hill Domination",
+  "Descuento": "no",
+  "Codigo_de_producto": 2,
+  "Precio": 20
+}]

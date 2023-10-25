@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "653920fbda2fae5890e8befa"
+  },
+  "Usuario": "BigChungus",
+  "Contraseña": "asd12345"
+},
+{
+  "_id": {
+    "$oid": "65392172da2fae5890e8befb"
+  },
+  "Usuario": "PanlinX1",
+  "Contraseña": "dotext222A"
+},
+{
+  "_id": {
+    "$oid": "653921a5da2fae5890e8befc"
+  },
+  "Usuario": "Noobmaster69",
+  "Contraseña": "gudgit200"
+},
+{
+  "_id": {
+    "$oid": "653921c1da2fae5890e8befd"
+  },
+  "Usuario": "Miguelito20",
+  "Contraseña": "goku585"
+}]

@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "65391a4fda2fae5890e8bef2"
+  },
+  "Nombre": "The amazing spider man 2",
+  "Precio": 223
+},
+{
+  "_id": {
+    "$oid": "65391b45da2fae5890e8bef3"
+  },
+  "Nombre": "Down Hill Domination",
+  "Precio": 20
+},
+{
+  "_id": {
+    "$oid": "65391b71da2fae5890e8bef4"
+  },
+  "Nombre": "Dragon ball Z",
+  "Precio": 10
+},
+{
+  "_id": {
+    "$oid": "65391b7fda2fae5890e8bef5"
+  },
+  "Nombre": "Shingeki",
+  "Precio": 25
+}]
